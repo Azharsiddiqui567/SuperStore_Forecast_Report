@@ -9,3 +9,5 @@ Data Analysis: Provide valuable insights to business entities regarding the effe
  Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days 
  4- 
  Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the              supermarket's goals for growth, efficiency, and customer satisfaction
+   this is also Power BI report link
+  https://app.powerbi.com/links/zZxsHiNghl?ctid=e1d7914f-2dbf-4718-a369-4c965b04c002&pbi_source=linkShare
