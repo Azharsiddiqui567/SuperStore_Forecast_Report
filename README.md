@@ -11,7 +11,7 @@ Customer Analysis: Analyzes customer behavior, including purchase frequency, ave
 Product Performance: Highlights top-selling products, product categories, and sales trends over time.
 Interactive Filters: Allows users to drill down into specific time periods, product categories, and customer segments.
 
-![image](https://github.com/user-attachments/assets/6eaa297d-4fc9-4969-b866-d4268b5d57f4)# SuperStore_Forecast_Report
+# SuperStore_Forecast_Report
 DESCRIPTION
 
 The objective can be broken down into the following detailed components:
